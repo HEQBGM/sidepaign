@@ -1,0 +1,23 @@
+{
+  "name": "sidepaign",
+  "title": "sidepaign",
+  "description": "",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": "pf2e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "background": "https://assets.forge-vtt.com/5f5bbd5291cf594ec908fc5d/Game%20Banners/banner.webp",
+  "coreVersion": "0.8.8",
+  "resetKeys": false,
+  "safeMode": false
+}
